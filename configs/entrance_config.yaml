@@ -1,0 +1,15 @@
+reference_frame_index: 9876
+video: data\entrance.mp4
+entrance_line:
+  point_1:
+  - 362
+  - 166
+  point_2:
+  - 1174
+  - 351
+staff_seed_box:
+  x1: 471
+  y1: 476
+  x2: 555
+  y2: 711
+  staff_id: staff_1
